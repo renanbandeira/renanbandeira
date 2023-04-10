@@ -13,10 +13,7 @@
 <br />
 <br />
 
-### I'm a Mobile Tech Lead, currently working with ReactJS + Cordova apps.
-
-
-#### -Learning GraphQL<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,React Native <code> <img height="20" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+### I'm an Engineering Manager, currently working at Chili Piper.
 
 #### - Brazilian Guy
 
@@ -36,8 +33,9 @@
 
 **My specialities,**
 
-**Mobile (Android) Development, Hybrid Development, React Development, People Management, Project Management**
+**People Management, Project Management, React Development, Mobile (Android) Development, Hybrid Development**
 <br />
+I'm not a fan of one specific language, I believe we can learn and grow no matter the language is and I like to adapt to the situation.
 
 
 ![Renan Bandeira Github Stats](https://github-readme-stats.vercel.app/api?username=renanbandeira&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
